@@ -1,2 +1,2 @@
 # mi-nuevo-portfolio
-for idea => https://greatstack.in/portfolio/
+para idea => https://greatstack.in/portfolio/
